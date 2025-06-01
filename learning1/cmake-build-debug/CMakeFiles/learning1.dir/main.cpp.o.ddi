@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/learning1.dir/main.cpp.o"
+    }
+  ],
+  "version": 1
+}
